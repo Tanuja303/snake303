@@ -5,8 +5,8 @@
 # SNAKE GAME ML
  PLAY GAME BY YOUR VOICE
  Integrating javascript game with Machine Learning
-## RESOURCES
-# Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/train/audio
+# RESOURCES
+# Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/Y_i2PhkNc/
 1. IF YOU SPEAK LEFT SNAKE WILL MOVE IN LEFT DIRECTION
 2.IF YOU SPEAK RIGHT SNAKE WILL MOVE IN RIGHT DIRECTION
 3.IF YOU SPEAK DOWN SNAKE WILL MOVE IN LEFT DIRECTION 
