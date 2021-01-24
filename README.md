@@ -7,7 +7,7 @@
  Integrating javascript game with Machine Learning
 # RESOURCES
 # Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/Y_i2PhkNc/
-1. IF YOU SPEAK LEFT SNAKE WILL MOVE IN LEFT DIRECTION
-2.IF YOU SPEAK RIGHT SNAKE WILL MOVE IN RIGHT DIRECTION
-3.IF YOU SPEAK DOWN SNAKE WILL MOVE IN LEFT DIRECTION 
-4.IF YOU SPEAK RIGHT SNAKE WILL MOVE IN UP DIRECTIO
+1. if you speak left snake will move in left direction
+2. if you speak right snake will move in right direction
+3. if you speak up snake will move in up direction
+4. if you speak down snake will move in down direction
